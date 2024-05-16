@@ -1,0 +1,102 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    background-color: rgb(51, 51, 138);
+}
+
+h1 {
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    height: 100px;
+    background: no-repeat;
+    width: 100%;
+    background-image: linear-gradient(rgb(221, 26, 228),rgb(51, 51, 138));
+}
+h2 {
+    font-size: 25px;
+}
+.nature{
+    display: flex;
+}
+
+.nature_img {
+    height: 250px;
+    margin: 20px;
+}
+
+article {
+    margin: 50px;
+}
+
+h3 {
+  text-align: center;
+  font-size: 40px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.video_container {
+    display: flex;
+    justify-content: space-around;
+
+    
+}
+
+nav{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+h5{
+    font-size: 30px;
+}
+footer{
+        border-top:1px solid black ;
+        padding: 10px;
+        margin-top: 30px;
+        background-image: linear-gradient(rgb(51, 51, 138),rgb(221, 26, 228));
+}
+
+.footer-img {
+   height: 40px;
+   width: 40px;
+}
+
+h6 {
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.tur_name {
+    color: crimson;
+    font-weight: bolder;
+}
+
+.turs {
+    display: flex;
+  justify-content: space-around;  
+ 
+}
+.tur_img{
+    width: 250px;
+    height: 250px;
+
+}
+
+nav {
+    font-size: 20px;
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+}
